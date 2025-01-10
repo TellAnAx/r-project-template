@@ -1,0 +1,17 @@
+---
+output: github_document
+always_allow_html: true
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# R-Project template
+This template provides a basic repository structure for data analysis using **R**, **RStudio** and the **tidyverse**. 
