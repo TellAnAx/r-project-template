@@ -1,0 +1,22 @@
+---
+title: "Data analysis"
+subtitle: "Project ID: "
+author: "Author: Anıl Axel Tellbüscher"
+date: "last updated: `r format(Sys.Date(), '%d.%m.%Y')`"
+output: pdf_document
+toc: true
+params:
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  include = FALSE,
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+
+source("setup.R")
+```
+
